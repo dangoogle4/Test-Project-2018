@@ -1,6 +1,6 @@
 <html>
 	<head></head>
-	<TITLE>Project Proposal</TITLE>
+	<title>Project Proposal</title>
 	<body>
 		<h1>Project Proposal v2</h1>
 		<b>ชื่อโครงการ</b>
@@ -27,5 +27,5 @@
 		<p>- สามารถรองรับต่อการเปลี่ยนแปลงของลูกค้า<p>
 		<p>- ง่ายต่อการตรวจสอบหาข้อผิดพลาดของ App<p>
 		
-	</body>
+	
 </html>
