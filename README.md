@@ -2,7 +2,7 @@
 	<head></head>
 	<TITLE>Project Proposal</TITLE>
 	<body>
-		<h1>Project Proposal v1</h1>
+		<h1>Project Proposal v2</h1>
 		<b>ชื่อโครงการ</b>
 		<p>	-  แอพพลิเคชั่นเปรียบเทียบราคาโรงแรมในจังหวัดเชียงใหม่<p>
 		<p>	-  Application hotal compare price</p>
