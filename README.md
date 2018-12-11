@@ -1,6 +1,6 @@
 <html>
 	<head></head>
-	<title>Project Proposal</title>
+	Project Proposal
 	<body>
 		<h1>Project Proposal v2</h1>
 		<b>ชื่อโครงการ</b>
