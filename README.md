@@ -23,7 +23,10 @@
 * ง่ายต่อการตรวจสอบหาข้อผิดพลาดของ 
  
 ## เครื่องมือที่ใช้ 
-   * API
+    * Visual Studio Code
+		* Ionic
+		* Node.js
+		* Android Studio
    
    ## User Story
    * As a ผู้ใช้, I want to เข้าสู่ระบบ, So that จัดการข้อมูลส่วนตัว
