@@ -40,3 +40,5 @@
    * As a ผู้ใช้, I want to ต้องการตรวจสอบระยะเวลา, So that การเข้าพัก
    * As a ผู้ใช้, I want to สามารถเพิ่มโรงแรมที่ชอบ, So that ไว้ติดตามได้
  
+Trello Scrum Board
+Link: https://trello.com/b/oNbFpi3j/room-hotel
