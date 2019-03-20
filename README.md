@@ -30,8 +30,8 @@
    
    ## User Story
    * As a ผู้ใช้, I want to เข้าสู่ระบบ, So that จัดการข้อมูลส่วนตัว
-   * As a ผู้ดูแล,I want to สามารถตรวจสอบ, So that ถนอมสายตา
-   * As a ผู้ใช้, I want to จองทัวร์, So that จองทัวร์
+   * As a ผู้ดูแล,I want to สามารถตรวจสอบ, So that ข้อมูลลูกค้า
+   * As a ผู้ใช้, I want to จองห้อง, So that จองห้อง
    * As a ผู้ใช้, I want to ต้องการจัดหมวดหมู่ห้องพัก, So that ความสะดวกในการใช้งาน
    * As a ผู้ใช้, I want to การจัดการลูกค้า, So that เก็บข้อมูลลูกค้า
    * As a ผู้ใช้, I want to ดูสถานะการจอง, So that ดูสถานะการรจอง
@@ -40,3 +40,5 @@
    * As a ผู้ใช้, I want to ต้องการตรวจสอบระยะเวลา, So that การเข้าพัก
    * As a ผู้ใช้, I want to สามารถเพิ่มโรงแรมที่ชอบ, So that ไว้ติดตามได้
  
+Trello Scrum Board
+Link: https://trello.com/b/oNbFpi3j/room-hotel
